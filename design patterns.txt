@@ -1,1 +1,14 @@
-Creational design patterns:
+Types of Design Patterns:
+
+Factory Pattern: A class that generats concrete implementations of an interface.
+Abstract Factory Pattern:
+
+
+
+Adapter: Allows for an interface, which is otherwide incompatible, to be adapter to fit a new class. Typically, this is performed by creating a new ClassNameAdapter class that implements the interface, allowing for compaitlitity accors s
+Bridge:
+Composit:
+Decorator:
+Facade:
+Flyweight:
+Proxy:
